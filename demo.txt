@@ -6,7 +6,6 @@ we are working on Git functionality
 
 topic covered
 oops 
-methos
 exceptions
 
 need to update code
