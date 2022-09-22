@@ -5,7 +5,8 @@ this is demo for 23batch
 we are working on Git functionality
 
 topic covered
-
+string 
+array
 exceptions
 
 need to update code
